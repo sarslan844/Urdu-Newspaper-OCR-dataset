@@ -138,16 +138,3 @@ The original source code, datasets, trained models, and production implementatio
 This repository demonstrates my technical experience without exposing proprietary information.
 
 ---
-
-# Author
-
-**Arslan Sadiq**
-
-AI & Machine Learning Enthusiast
-
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/YOUR-USERNAME
-
----
-
-⭐ If you found this repository useful, feel free to star it.S
